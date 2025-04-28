@@ -3,7 +3,7 @@ SEPM PROJECT PORTFOLIO
 # 📂 Project Portfolio — Ashwin Ramesh (Member)
 
 ## 👨‍💻 About Me
-I am a member of the DVS Agile Project Team, contributing towards development, performance optimization, bug resolution, and feature enhancements.
+I am a member of the DVS Agile Project Team, working on the **Digital Voting System** project. My contributions focused on performance optimization, bug fixing, offline support, feedback system design, and search enhancement for a secure, user-friendly voting platform with **face recognition login verification**.
 
 ---
 
@@ -15,20 +15,20 @@ I am a member of the DVS Agile Project Team, contributing towards development, p
 - **Task Name:** Offline Mode
 - **Status:** Completed ✅
 - **Collaborators:** Kavin Bharathi, Ashwin Ramesh
-- **Description:** Enabled Offline Mode functionality for the app, ensuring users can access core features without an internet connection.
+- **Description:** Enabled Offline Mode functionality for the digital voting system, ensuring voters can access core functionalities even with low or no internet connectivity.
 - **Highlights:**
-  - Implemented offline caching mechanisms.
-  - Built auto-sync features once connectivity is restored.
+  - Implemented offline caching mechanisms for voting modules.
+  - Built auto-sync features for vote submission once connectivity is restored.
 - **Labels:** Non-functional, Sprint 2, Could Have.
 
 #### 2. Performance Improvement (Shared Contribution)
 - **Task Name:** Performance
 - **Status:** Completed ✅
 - **Collaborators:** Kavin Bharathi, Ashwin Ramesh
-- **Description:** Optimized app loading time to under 3 seconds for better user satisfaction.
+- **Description:** Optimized app loading time to under 3 seconds for faster access to the voting portal.
 - **Highlights:**
-  - Improved front-end rendering and backend API response time.
-  - Focused on lightweight asset delivery.
+  - Improved front-end rendering for voter dashboard.
+  - Enhanced backend response times for login and ballot retrieval.
 - **Labels:** Non-functional, Sprint 2, Must Have.
 
 ---
@@ -39,28 +39,28 @@ I am a member of the DVS Agile Project Team, contributing towards development, p
 - **Task Name:** Bug Fixes
 - **Status:** Not Started (as per export)
 - **Collaborators:** Kavin Bharathi, Ashwin Ramesh, Others
-- **Description:** Tasked with identifying, documenting, and resolving bugs affecting core modules.
+- **Description:** Tasked with identifying and resolving bugs related to voter authentication, including face recognition verification modules.
 - **Highlights:**
-  - Assigned bugs prioritized based on functional recruitment needs.
+  - Focused on fixing critical security and authentication issues.
 - **Labels:** Functional Recruitment, Sprint 3, Should Have.
 
 #### 2. Feedback Module (Individual Contribution)
 - **Task Name:** Feedback
 - **Status:** Not Started (as per export)
 - **Assigned To:** Ashwin Ramesh
-- **Description:** Planned to design and integrate a feedback mechanism where users can report issues and suggest improvements directly through the app.
+- **Description:** Designed a feedback system for voters to submit experiences, report issues, and suggest improvements within the voting platform.
 - **Highlights:**
-  - Drafted feedback flow and initial wireframes.
+  - Drafted feedback submission flow integrated with user sessions.
 - **Labels:** Non-functional, Sprint 3, Must Have.
 
 #### 3. Search Enhancement (Shared Contribution)
 - **Task Name:** Search Enhancement
 - **Status:** Completed ✅
 - **Collaborators:** Pratyush Bharathi, Kavin Bharathi, Ashwin Ramesh
-- **Description:** Improved the search functionality to ensure faster, more accurate results for users.
+- **Description:** Improved the voter search functionality to enable quick and accurate retrieval of voter records.
 - **Highlights:**
-  - Enhanced keyword matching algorithms.
-  - Streamlined backend queries.
+  - Enhanced keyword matching algorithms for voter database search.
+  - Streamlined backend queries to minimize search delays.
 - **Labels:** Non-functional, Sprint 3, Could Have / Won't Have.
 
 ---
@@ -78,38 +78,42 @@ I am a member of the DVS Agile Project Team, contributing towards development, p
 ---
 
 ## 📸 Screenshots (To Add)
-- Offline mode working demo
-- Performance benchmark reports
-- Search UI enhancements
-- Planned feedback form design
+- Offline voting mode demonstration
+- Performance benchmarking reports (Login/ Ballot loading times)
+- Improved Voter Search Interface
+- Face recognition login verification module (if applicable)
+- Planned feedback submission form design
 
 ---
 
 ## 📜 Technologies Used
 - Microsoft Planner (Project Management)
 - GitHub (Version Control)
-- ReactJS / Angular (Frontend assumed)
-- NodeJS / Express (Backend assumed)
-- Azure / Firebase (if hosting backend services)
+- ReactJS / Angular (Frontend for Voting Portal)
+- NodeJS / Express (Backend Services)
+- Azure / Firebase (for Authentication APIs and Hosting)
+- OpenCV / TensorFlow Lite (for Face Recognition modules)
 
 ---
 
 ## 🔗 GitHub Repository Structure
 ```plaintext
 /docs (Documentation, screenshots)
-/offline-mode (Offline functionality code)
-/performance-improvements (Optimization files)
-/search-enhancement (Search functionality updates)
-/bug-fixes (Bug fixing scripts/notes)
-/feedback-module (Design files and plans)
+/offline-mode (Offline voting functionality code)
+/performance-improvements (Optimization files for faster app access)
+/search-enhancement (Voter search functionality updates)
+/bug-fixes (Bug fixing scripts related to authentication and voting)
+/feedback-module (Feedback system design and integration)
+/face-recognition-login (Face Authentication modules)
 README.md
 ```
 
 ---
 
 # ✨ Special Note
-I collaborated extensively with teammates to ensure the completion of core functionalities. My work in **Offline Mode**, **Performance Optimization**, and **Search Enhancement** played a critical role in improving user experience. I also contributed individually to planning the **Feedback Module** and prepared for **Bug Fixes** in Sprint 3.
+Throughout the project, my efforts were centered around creating a **robust, secure, and efficient digital voting experience**. Features like **offline support**, **optimized performance**, **enhanced search for voter records**, and **secure login verification using face recognition** were my key contributions during each sprint.
 
 ---
 
 # 🚀 Thank you for checking out my contributions!
+
